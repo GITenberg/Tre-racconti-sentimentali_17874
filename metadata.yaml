@@ -1,0 +1,25 @@
+_repo: Tre-racconti-sentimentali_17874
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bettoni, Paolo
+    gutenberg_agent_id: '7666'
+    url: http://www.gutenberg.org/2009/agents/7666
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2006-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17874'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+title: Tre racconti sentimentali
+url: http://www.gutenberg.org/ebooks/17874
